@@ -1,0 +1,25 @@
+.head{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.navv{
+    line-height: 40px;
+    background-color: rgb(65, 61, 61);
+    
+}
+a{
+    font-weight: 400;;
+    padding: 5px;
+    color: white;
+    margin-right: 25px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(207, 207, 207);
+    box-shadow: 1px 1px 1px  rgb(179, 178, 178);
+    border-radius: 5px;
+}
+a:active{
+    color: tomato;
+    font-weight: 450;
+}
